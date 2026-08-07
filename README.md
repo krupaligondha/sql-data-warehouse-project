@@ -94,3 +94,27 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 🌟 About Me
+
+# Hi, I'm Krupali Gondha 👋
+
+🎓 **4th Year Computer Science Engineering Student**
+
+📊 **Aspiring Data Analyst** passionate about transforming data into meaningful insights.
+
+🌱 **Currently Learning:**
+- Python
+- SQL
+- Excel
+- Power BI
+
+💡 **Interests:**
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Problem Solving
+
+🚀 **Goal:**
+To become a skilled Data Analyst and build data-driven solutions that create real-world impact.
+
+---
+*"Learning, building, and growing every day."*
